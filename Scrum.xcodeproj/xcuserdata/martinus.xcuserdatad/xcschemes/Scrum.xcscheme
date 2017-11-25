@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "92959A071FC6CDAF005B331F"
-               BuildableName = "IndomitableProject.app"
-               BlueprintName = "IndomitableProject"
-               ReferencedContainer = "container:IndomitableProject.xcodeproj">
+               BlueprintIdentifier = "CE01BF0B1FC98CF100834216"
+               BuildableName = "Scrum.app"
+               BlueprintName = "Scrum"
+               ReferencedContainer = "container:Scrum.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,14 +28,34 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "CE01BF1F1FC98CF100834216"
+               BuildableName = "ScrumTests.xctest"
+               BlueprintName = "ScrumTests"
+               ReferencedContainer = "container:Scrum.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "CE01BF2A1FC98CF100834216"
+               BuildableName = "ScrumUITests.xctest"
+               BlueprintName = "ScrumUITests"
+               ReferencedContainer = "container:Scrum.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92959A071FC6CDAF005B331F"
-            BuildableName = "IndomitableProject.app"
-            BlueprintName = "IndomitableProject"
-            ReferencedContainer = "container:IndomitableProject.xcodeproj">
+            BlueprintIdentifier = "CE01BF0B1FC98CF100834216"
+            BuildableName = "Scrum.app"
+            BlueprintName = "Scrum"
+            ReferencedContainer = "container:Scrum.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92959A071FC6CDAF005B331F"
-            BuildableName = "IndomitableProject.app"
-            BlueprintName = "IndomitableProject"
-            ReferencedContainer = "container:IndomitableProject.xcodeproj">
+            BlueprintIdentifier = "CE01BF0B1FC98CF100834216"
+            BuildableName = "Scrum.app"
+            BlueprintName = "Scrum"
+            ReferencedContainer = "container:Scrum.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92959A071FC6CDAF005B331F"
-            BuildableName = "IndomitableProject.app"
-            BlueprintName = "IndomitableProject"
-            ReferencedContainer = "container:IndomitableProject.xcodeproj">
+            BlueprintIdentifier = "CE01BF0B1FC98CF100834216"
+            BuildableName = "Scrum.app"
+            BlueprintName = "Scrum"
+            ReferencedContainer = "container:Scrum.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

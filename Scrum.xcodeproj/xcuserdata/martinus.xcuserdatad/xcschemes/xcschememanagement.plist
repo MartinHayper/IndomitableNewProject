@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>IndomitableProject.xcscheme</key>
+		<key>Scrum.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>92959A071FC6CDAF005B331F</key>
+		<key>CE01BF0B1FC98CF100834216</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE01BF1F1FC98CF100834216</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE01BF2A1FC98CF100834216</key>
 		<dict>
 			<key>primary</key>
 			<true/>

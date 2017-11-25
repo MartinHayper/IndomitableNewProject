@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  IndomitableProject
+//  Scrum
 //
-//  Created by yudi on 11/23/17.
-//  Copyright © 2017 RagingWind. All rights reserved.
+//  Created by Martinus on 25/11/17.
+//  Copyright © 2017 martin. All rights reserved.
 //
 
 import UIKit
